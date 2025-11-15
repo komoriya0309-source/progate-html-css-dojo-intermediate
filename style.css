@@ -26,3 +26,8 @@ a {
 .top-wrapper h1{
     font-size: 45px;
 }
+
+.top-wrapper h1,p{
+  color: white;
+  opacity: 0.7px;
+}
