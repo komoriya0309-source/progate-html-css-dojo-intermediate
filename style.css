@@ -21,8 +21,13 @@ a {
     background-image: url(https://prog-8.com/images/html/advanced/top.png);
     background-size: cover;
     height: 620px;
-    width: 1170px;
-    margin: 0 auto;
+}
+
+.container{
+  width: 1170px;
+  margin: 0 auto;
+  padding: 180px 0 100px 0;
+  text-align: center;
 }
 
 .top-wrapper h1{
