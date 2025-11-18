@@ -44,3 +44,10 @@ a {
   color: white;
   opacity: 0.8;
 }
+
+.btn{
+  padding: 8px 24px;
+  display: inline-block;
+  border-radius: 4px;
+}
+
