@@ -85,3 +85,12 @@ header{
   margin-left: 55px;
   float: left;
 }
+
+.login{
+  float: right;
+  color: white;
+  padding: 0 25px;
+  margin-right: 55px;
+  line-height: 65px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
