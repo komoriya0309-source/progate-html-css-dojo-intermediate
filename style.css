@@ -78,3 +78,10 @@ header{
   left: 0;
   width: 100%;
 }
+
+.logo{
+  width: 124px;
+  padding-top: 20px;
+  margin-left: 55px;
+  float: left;
+}
