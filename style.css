@@ -110,3 +110,11 @@ header{
   float: left;
   width: 25%;
 }
+
+.txt-contents{
+  color: #b3aeb5;
+  padding-top: 15px;
+  width: 80%;
+  font-size: 13px;
+  margin: 0 auto;
+}
