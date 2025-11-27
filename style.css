@@ -111,9 +111,26 @@ header{
   padding-bottom: 50px;
 }
 
+.lesson-wrapper h2{
+  font-weight: normal;
+  color: #5f5d60;
+}
+
 .lesson{
   float: left;
   width: 25%;
+}
+
+.lesson-icon{
+  position: relative;
+}
+
+.lesson-icon p{
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+  opacity: 1;
 }
 
 .txt-contents{
