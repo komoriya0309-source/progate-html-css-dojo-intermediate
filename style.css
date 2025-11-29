@@ -154,3 +154,14 @@ header{
 .message-wrapper h2{
   font-weight: normal;
 }
+
+.btn-message{
+  display: inline-block;
+  margin-top: 50px;
+  padding:15px 40px;
+  background-color: #5dca88;
+  opacity: 0.8;
+  color: white;
+  box-shadow: 0 7px #1a7940;
+  border-radius: 4px;
+}
