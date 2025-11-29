@@ -141,3 +141,16 @@ header{
   display: inline-block;
   opacity: 1;
 }
+
+.message-wrapper{
+  margin: 80px 0;
+  text-align: center;
+}
+
+.message-wrapper h2,h3{
+  color: #5f5d60;
+}
+
+.message-wrapper h2{
+  font-weight: normal;
+}
