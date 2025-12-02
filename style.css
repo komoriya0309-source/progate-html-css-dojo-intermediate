@@ -165,3 +165,8 @@ header{
   box-shadow: 0 7px #1a7940;
   border-radius: 4px;
 }
+
+.btn-message:hover{
+  opacity: 1;
+  curcor: pointer;
+}
