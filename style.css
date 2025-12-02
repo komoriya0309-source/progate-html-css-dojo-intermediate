@@ -170,3 +170,9 @@ header{
   opacity: 1;
   curcor: pointer;
 }
+
+.btn-message:active{
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
