@@ -176,3 +176,8 @@ header{
   position: relative;
   top: 7px;
 }
+
+.footer{
+  border-top: 1px solid #eee;
+  padding: 30px;
+}
